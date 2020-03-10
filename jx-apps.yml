@@ -1,1 +1,3 @@
-defaultNamespace: ""
+apps:
+- name: jenkins-x/bdd-gh-1583838448
+  version: 0.0.1
